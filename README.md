@@ -26,3 +26,13 @@ Linux notes I am writing while studying for a career in cybersecurity.
 - `file <file>` - shows the type of the file
 - `rm <file>` - permanently removes the file
 - `rm -r <folder>` - permanently removes a folder and everything inside it 
+
+## Terminal 
+
+- `ssh <user>@<server> -p <port>` - connects to a remote computer / server in an encrypted way 
+- `exit` - closes the connection 
+- `man <command>` - opens the manual of a command, press q to exit 
+- `Ctrl + c` - stops the running command
+- `reset` - cleans up the terminal 
+- `Ctrl + Shift + C` - copy in the terminal
+- `Ctrl + Shift + V` - paste in the terminal 
