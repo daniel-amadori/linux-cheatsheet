@@ -17,3 +17,12 @@ Linux notes I am writing while studying for a career in cybersecurity.
 - `cd <folder>` - moves into a folder ("change directory")
 - `cd ..` - goes up one level, to the parent folder
 - `cd ~` - goes back to your home folder 
+
+## Files
+
+- `mkdir <folder>` - creates a new folder
+- `touch <file>` - creates a new empty file
+- `cat <file>` - shows the content of the file
+- `file <file>` - shows the type of the file
+- `rm <file>` - permanently removes the file
+- `rm -r <folder>` - permanently removes a folder and everything inside it 
